@@ -1,2 +1,2 @@
-# 8080Emu
-An emulator for the Intel 8080 microprocessor, written in C.
+# 8080Dis
+A disassembler for the Intel 8080 microprocessor, written in C.
